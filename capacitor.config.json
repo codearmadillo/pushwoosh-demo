@@ -1,0 +1,15 @@
+{
+  "appId": "dk.scancommerce.fleggaardapp",
+  "appName": "Capacitor Kitchen Sink",
+  "webDir": "www",
+  "npmClient": "npm",
+  "server": {
+    "hostname": "app",
+    "iosScheme": "ionic",
+    "androidScheme": "https",
+    "allowNavigation": [
+      "localhost:*",
+      "*.pushwoosh.com"
+    ]
+  }
+}

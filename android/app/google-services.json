@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "501691106216",
+    "firebase_url": "https://fleggaard-225d8.firebaseio.com",
+    "project_id": "fleggaard-225d8",
+    "storage_bucket": "fleggaard-225d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501691106216:android:400ad6101b6d8c5be4939d",
+        "android_client_info": {
+          "package_name": "dk.scancommerce.fleggaardapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501691106216-gugbkcjh052t3r46ar12ham607b04asj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmv1rfTctT0aPLjPafw0xvsrokHkl7aAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501691106216-gugbkcjh052t3r46ar12ham607b04asj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "501691106216-aq2ur1n905qgl8dp7n5l2bgs6racnp3t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dk.scancommerce.fleggaardapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Capacitor Kitchen Sink</string>
+    <string name="title_activity_main">Capacitor Kitchen Sink</string>
+    <string name="package_name">dk.scancommerce.fleggaardapp</string>
+    <string name="custom_url_scheme">dk.scancommerce.fleggaardapp</string>
+</resources>

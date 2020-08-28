@@ -1,5 +1,7 @@
 {
   "name": "pushwoosh-integration",
-  "integrations": {},
+  "integrations": {
+    "capacitor": { }
+  },
   "type": "ionic-angular"
 }
